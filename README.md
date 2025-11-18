@@ -2,13 +2,13 @@
 
 ## Group 16 - Medlemmer
 
-- Jacok Amundsen-O'Hara
-- Christian Urdal Hansen
-- Lucas Larsen
-- Tobias Kolstad Lindkvist  
-- Najeebullah Maroof 
-- Daniel Nemeye
-- Adrian Berg Wickstrøm 
+- Jacok Amundsen-O'Hara **Epost:** [jacobam@uia.no](jacobam@uia.no)
+- Christian Urdal Hansen **Epost:** [christauh@uia.no](christauh@uia.no)
+- Lucas Larsen  **Epost:** [lucasl@uia.no](lucasl@uia.no)
+- Tobias Kolstad Lindkvist **Epost:** [tobiaskl@uia.no](tobiask@uia.no) 
+- Najeebullah Maroof  **Epost:** [najeebullm@uia.no](najeebullm@uia.no)
+- Daniel Nemeye **Epost:** [danielnem@uia.no](danielnem@uia.no)
+- Adrian Berg Wickstrøm **Epost:** [adrianbw@uia.no](adrianbw@uia.no)
 
 ## Prosjektbeskrivelse
 
